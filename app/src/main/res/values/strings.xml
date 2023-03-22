@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Laboratorio02Guzman</string>
+    <string name="weight_text">Weight</string>
+    <string name="height_text">Height</string>
+</resources>
